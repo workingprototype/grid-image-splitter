@@ -1,4 +1,4 @@
-# grid-image-splitter
+# Grid Image Splitter
  Split an image into a 3x3 grid, similar to a Rubik's cube
 
 pip install pillow
